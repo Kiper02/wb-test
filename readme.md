@@ -38,6 +38,5 @@
 ## Запуск
 
 ```bash
-# собрать и запустить контейнер
 docker compose up -d --build app
 ```
