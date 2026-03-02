@@ -1,0 +1,9 @@
+node_modules
+.local
+.env
+dist
+.idea/
+credentials.json
+pnpm-lock.yaml
+package-lock.json
+
